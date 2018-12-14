@@ -1,0 +1,4 @@
+# Frontend Playground
+
+> Have fun!
+
